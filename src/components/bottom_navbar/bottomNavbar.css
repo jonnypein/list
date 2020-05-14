@@ -1,0 +1,10 @@
+.bottomNavbar{
+  height: 5vh;
+  border: solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+
+}

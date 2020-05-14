@@ -1,0 +1,14 @@
+.list{
+  border: solid;
+  height: 60vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  overflow-y: scroll;
+
+}
+
+.navbar-item{
+  height: 1vh;
+}
